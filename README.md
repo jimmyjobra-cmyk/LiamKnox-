@@ -98,12 +98,12 @@ jobs:
 
 ### Thank You Dear
 
-> DEVELOPER OF TREND-X 
-- [TRENDEX ](https://github.com/trendex2030)
-- Creater and Owner Of TREND-X
+> DEVELOPER OF LIAMKNOX 
+- [LIAMKNOX ](https://github.com/trendex2030)
+- Creator and Owner Of LIAMKNOX 
 
-> TREND-X Helper
-- [TRENDEX](https://github.com/trendex2030)
+> LIAMKNOX Helper
+- [LIAMKNOX](https://github.com/LiamKnox)
 - For helping in bot plugin files.
 ---
-<a><img src='https://i.imgur.com/LyHic3i.gif'/># TREND-X
+<a><img src='https://i.imgur.com/LyHic3i.gif'/># LIAMKNOX 
